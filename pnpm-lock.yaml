@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       effect:
-        specifier: 4.0.0-beta.23
-        version: 4.0.0-beta.23
+        specifier: 4.0.0-beta.38
+        version: 4.0.0-beta.38
     devDependencies:
       '@types/node':
         specifier: ^24.10.0
@@ -61,8 +61,8 @@ packages:
     resolution: {integrity: sha512-Btj2BOOO83o3WyH59e8MgXsxEQVcarkUOpEYrubB0urwnN10yQ364rsiByU11nZlqWYZm05i/of7io4mzihBtQ==}
     engines: {node: '>=8'}
 
-  effect@4.0.0-beta.23:
-    resolution: {integrity: sha512-bu6Lv2Tjs8QBMz9/TfPrNur6wqRCykW0rOZCJuaylt6g6sT28niL9L4Aeak/7XTsnYp5bCWaqRrSYANBVkPFQw==}
+  effect@4.0.0-beta.38:
+    resolution: {integrity: sha512-4Sr5dJqfexSuH0CiXBisLavcTMmzcN0al62aTOHujBGmS6s2VA4Yg25bvvuQbCWTPXv4+zEC5zDupIGY420m1g==}
 
   fast-check@4.5.3:
     resolution: {integrity: sha512-IE9csY7lnhxBnA8g/WI5eg/hygA6MGWJMSNfFRrBlXUciADEhS1EDB0SIsMSvzubzIlOBbVITSsypCsW717poA==}
@@ -144,7 +144,7 @@ snapshots:
   detect-libc@2.1.2:
     optional: true
 
-  effect@4.0.0-beta.23:
+  effect@4.0.0-beta.38:
     dependencies:
       '@standard-schema/spec': 1.1.0
       fast-check: 4.5.3
